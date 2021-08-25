@@ -36,7 +36,6 @@ class FavouriteTableViewController: UIViewController {
         }
     }
     
-    
     //MARK: - Lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
